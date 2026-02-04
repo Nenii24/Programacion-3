@@ -1,0 +1,9 @@
+package main;
+
+public class Main {
+	public static void main(String[] args) {
+		MyFrame ventanita = new MyFrame();
+		
+		
+	}
+}
